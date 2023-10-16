@@ -126,5 +126,76 @@ gun_stats = (
         "Legendary", #rarity
         131.6, 94, 4.4, 1.4, 6, 4.73,
     ],
-       
-)
+    #gun 
+    [
+        "Heisted Breacher Shotgun", #name
+        "Exotic", #rarity
+        106, 106, 255, 1, 5, 5.1,
+    ],
+    #gun 
+    [
+        "Heisted Accelerant Shotgun", #name
+        "Exotic", #rarity
+        137.2, 98, 4.6, 1.4, 6, 4.68,
+    ],
+        #gun 
+    [
+        "Sharp Tooth Shotgun" #name
+        "Uncommon", #rarity
+        69.768,102.6,8.6,0.68,4,4.73,
+    ],
+    #gun 
+    [
+        "Sharp Tooth Shotgun", #name
+        "Rare", #rarity
+        73.44,108,9,0.68,4,4.5
+    ],
+    #gun 
+    [
+        "Sharp Tooth Shotgun", #name
+        "Epic", #rarity
+        77.112,113.4,9.5,0.68,4,4.28
+    ],
+    #gun 
+    [
+        "Sharp Tooth Shotgun", #name
+        "Legendary", #rarity
+        80.784,118.8,9.9,0.68,4,4.05
+    ],
+    #gun 
+    [
+        "Enhanced Infiltrator Pump Shotgun", #name
+        "Mythic", #rarity
+        116.64,	97.2, 5.8, 1.2, 6, 4.25,
+    ],
+    #gun 
+    [
+        "Infiltrator Pump Shotgun", #name
+        "Common", #rarity
+        91.8,76.5,4.5,1.2,6,5.5,
+    ],
+    #gun 
+    [
+        "Infiltrator Pump Shotgun" #name
+        "Uncommon", #rarity
+        113.4, 81, 3.8, 1.4, 6, 5.51,
+    ],
+    #gun 
+    [
+        "Infiltrator Pump Shotgun", #name
+        "Rare", #rarity
+        119,	85,	4,	1.4,	6,	5.25,
+    ],
+    #gun 
+    [
+        "Infiltrator Pump Shotgun", #name
+        "Epic", #rarity
+        124.6,89,4.2,1.4,6,4.99,
+    ],
+    #gun 
+    [
+        "Infiltrator Pump Shotgun", #name
+        "Legendary", #rarity
+        131.6, 94, 4.4, 1.4, 6, 4.73,
+    ],
+)   
